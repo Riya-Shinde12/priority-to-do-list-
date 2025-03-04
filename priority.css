@@ -1,30 +1,24 @@
-/* Body styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
   }
   
-  /* Container with margin at the top */
   .container {
     margin-top: 50px;
   }
   
-  /* To-do item spacing */
   .todo-item {
     margin-bottom: 15px;
   }
-  
-  /* Low priority background color */
+
   .low-priority {
     background-color: #d4edda;
   }
   
-  /* Medium priority background color */
   .medium-priority {
     background-color: #fff3cd;
   }
   
-  /* High priority background color */
   .high-priority {
     background-color: #f8d7da;
   }
